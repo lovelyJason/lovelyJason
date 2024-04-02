@@ -72,5 +72,10 @@
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=lovelyJason&theme=github-light" /> </div>
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
