@@ -5,10 +5,10 @@
 ## web前端工程师—jason
 
 ### 自我介绍
-![](https://cdn.qdovo.com/img/u=3614830019,3989570087&fm=26&gp=0.jpg)
-- 😂 从业5年的web前端开发工程师，也懂点别的技术
+
+- <img src="https://cdn.qdovo.com/img/u=3614830019,3989570087&fm=26&gp=0.jpg" width="20" alt="我的头像"> 从业5年的web前端开发工程师，也懂点别的技术
 - 🐱 对web前后端开发感兴趣，对跨端技术感兴趣
-- Vue2, Vue3, React Class版本， React Hooks版本全开发过
+- 😂 Vue2, Vue3, React Class版本， React Hooks版本全开发过
 - 🍊 欢迎来交流任何和代码有关或无关的话题
 
 ### **社交主页：**
