@@ -8,6 +8,7 @@
 ![](https://cdn.qdovo.com/img/u=3614830019,3989570087&fm=26&gp=0.jpg)
 - 😂 从业5年的web前端开发工程师，也懂点别的技术
 - 🐱 对web前后端开发感兴趣，对跨端技术感兴趣
+- Vue2, Vue3, React Class版本， React Hooks版本全开发过
 - 🍊 欢迎来交流任何和代码有关或无关的话题
 
 ### **社交主页：**
@@ -26,10 +27,12 @@
  <a href="https://img.shields.io/badge/Hexo-00a5f5?style=flat&logo=hexo"><code><img height="20" src="https://img.shields.io/badge/Hexo-00a5f5?style=flat&logo=hexo"></code></a>
 </span>
 
-<a href="https://cn.vuejs.org/"><code><img height="20" src="./images/vue.svg"></code></a>
+<a href="https://cn.vuejs.org/"><code><img height="20" src="./images/vue.png"></code></a>
 <a href="https://reactjs.org/"><code><img height="20" src="./images/react.svg"></code></a>
 <a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/typescript.png"></code></a>
 <a href="https://webpack.js.org/"><code><img height="20" src="./images/webpack.svg"></code></a>
+<a href="https://www.gulpjs.com.cn/"><code><img height="20" src="./images/gulp.png"></code></a>
+<a href="https://cn.rollupjs.org/"><code><img height="20" src="./images/rollup.svg"></code></a>
 <a href="https://cn.vitejs.dev"><code><img height="20" src="./images/vite.png"></code></a>
 <a href="https://sass-lang.com"><code><img height="20" src="./images/sass2.png"></code></a>
 <a href="https://tailwindcss.com"><code><img height="20" src="./images/tailwindcss.png"></code></a>
@@ -39,7 +42,17 @@
   <img src="https://img.shields.io/badge/-Node.js-5e9258?style=flat-square&logo=node.js&logoColor=fff" /> 
   <img src="https://img.shields.io/badge/-Golang-75cede?style=flat-square&logo=go&logoColor=white" /> 
   <img height="20" src="https://img.shields.io/badge/Python-3-orange">
-  <img src="https://img.shields.io/badge/-Shell-5e9258?style=flat-square&logo=zsh&logoColor=7ecc4b" /> 
+  <img src="https://img.shields.io/badge/-csharp-2f922c?style=flat-square&logo=csharp&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Shell-5e9258?style=flat-square&logo=zsh&logoColor=7ecc4b" />
+  <img src="https://img.shields.io/badge/%E6%98%93%E8%AF%AD%E8%A8%80-blue.svg?logo=e" />
+</span>
+<br>
+
+<span>
+  <img src="https://img.shields.io/badge/-vscode-fff?logo=visualstudiocode&logoColor=24aff4" />
+  <img src="https://img.shields.io/badge/-sublime-c9c9c9?logo=sublimetext&logoColor=fd9601" />
+  <img src="https://img.shields.io/badge/-webstorm-05c2d7?style=flat-square&logo=webstorm" />
+  <img src="https://img.shields.io/badge/goland-black?style=flat-square&logo=goland" />
 </span>
 
 ### 开源项目
