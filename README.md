@@ -71,3 +71,6 @@
 ### 我的近期活动
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=lovelyJason&theme=github-light" /> </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
