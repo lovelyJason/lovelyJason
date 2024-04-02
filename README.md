@@ -65,8 +65,7 @@
 [![](https://activity-graph.herokuapp.com/graph?username=lovelyJason&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![lovelyJason's github stats](https://github-readme-stats.vercel.app/api?username=lovelyJason&show_icons=true&theme=vue)
 ### Github 我所使用的语言
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lovelyJason&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lovelyJason&layout=compact&langs_count=12)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lovelyJason&layout=compact&langs_count=12)
 
 ### 我的近期活动
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=lovelyJason&theme=github-light" /> </div>
