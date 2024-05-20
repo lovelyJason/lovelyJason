@@ -73,7 +73,7 @@
 ### 我今天的工作记录
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-237%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-245%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -83,7 +83,7 @@
 
 > 📦 75.3 kB Used in GitHub's Storage 
  > 
-> 🏆 60 Contributions in the Year 2024
+> 🏆 61 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -141,11 +141,11 @@ Windows                  48 hrs 52 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               22 repos            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   52.38 % 
-Vue                      7 repos             ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.67 % 
-TypeScript               6 repos             ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.29 % 
-HTML                     2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.76 % 
-Less                     1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.38 % 
+JavaScript               22 repos            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   51.16 % 
+Vue                      7 repos             ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.28 % 
+TypeScript               7 repos             ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.28 % 
+HTML                     2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.65 % 
+Less                     1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.33 % 
 ```
 
 
@@ -155,6 +155,6 @@ Less                     1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/lovelyJason/lovelyJason/main/assets/bar_graph.png)
 
 
- Last Updated on 20/05/2024 01:21:25 UTC
+ Last Updated on 20/05/2024 12:46:02 UTC
 <!--END_SECTION:waka-->
 
