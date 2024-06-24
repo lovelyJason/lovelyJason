@@ -30,6 +30,7 @@
 
 <a href="https://cn.vuejs.org/"><code><img height="20" src="./images/vue.png"></code></a>
 <a href="https://reactjs.org/"><code><img height="20" src="./images/react.svg"></code></a>
+<a href="https://nextjs.org/"><code><img height="30" src="https://i1.hdslb.com/bfs/archive/a226a8e7efdccad88aa7e8eadc85fe4e5f814f75.jpg"></code></a>
 <a href="https://webpack.js.org/"><code><img height="20" src="./images/webpack.svg"></code></a>
 <a href="https://www.gulpjs.com.cn/"><code><img height="20" src="./images/gulp.png"></code></a>
 <a href="https://cn.rollupjs.org/"><code><img height="20" src="./images/rollup.svg"></code></a>
@@ -45,9 +46,16 @@
   <img src="https://img.shields.io/badge/-csharp-2f922c?style=flat-square&logo=csharp&logoColor=fff" />
   <img src="https://img.shields.io/badge/-Shell-5e9258?style=flat-square&logo=zsh&logoColor=7ecc4b" />
   <img src="https://img.shields.io/badge/%E6%98%93%E8%AF%AD%E8%A8%80-blue.svg?logo=e" />
+ 
 </span>
 <br>
 
+<span>
+  <img src="https://img.shields.io/badge/-dart-fff?logo=dart&logoColor=24aff4" />
+  <img src="https://img.shields.io/badge/-flutter-fff?logo=flutter&logoColor=24aff4" />
+  <img src="https://img.shields.io/badge/-cocos%20creator-fff?logo=cocos&logoColor=24aff4" />
+</span>
+<br>
 <span>
   <img src="https://img.shields.io/badge/-vscode-fff?logo=visualstudiocode&logoColor=24aff4" />
   <img src="https://img.shields.io/badge/-sublime-c9c9c9?logo=sublimetext&logoColor=fd9601" />
