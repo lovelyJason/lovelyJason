@@ -52,9 +52,9 @@
 <br>
 
 <span>
-  <img src="https://img.shields.io/badge/-dart-fff?logo=dart&logoColor=24aff4" />
-  <img src="https://img.shields.io/badge/-flutter-fff?logo=flutter&logoColor=24aff4" />
-  <img src="https://img.shields.io/badge/-cocos%20creator-fff?logo=cocos&logoColor=24aff4" />
+  <img src="https://img.shields.io/badge/-Dart-fff?logo=dart&logoColor=24aff4" />
+  <img src="https://img.shields.io/badge/-Flutter-fff?logo=flutter&logoColor=24aff4" />
+  <img src="https://img.shields.io/badge/-Cocos%20Creator-fff?logo=cocos&logoColor=24aff4" />
 </span>
 <br>
 <span>
