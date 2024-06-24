@@ -28,6 +28,7 @@
  <a href="https://img.shields.io/badge/Hexo-00a5f5?style=flat&logo=hexo"><code><img height="20" src="https://img.shields.io/badge/Hexo-00a5f5?style=flat&logo=hexo"></code></a>
 </span>
 
+<a href="https://cn.vuejs.org/"><code><img height="20" src="https://github.com/lovelyJason/lovelyJason/assets/50656459/c08a4311-0df3-408d-bcdc-6aa0f6a71a4f"></code></a>
 <a href="https://cn.vuejs.org/"><code><img height="20" src="./images/vue.png"></code></a>
 <a href="https://reactjs.org/"><code><img height="20" src="./images/react.svg"></code></a>
 <a href="https://nextjs.org/"><code><img height="30" src="https://i1.hdslb.com/bfs/archive/a226a8e7efdccad88aa7e8eadc85fe4e5f814f75.jpg"></code></a>
