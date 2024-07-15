@@ -92,8 +92,6 @@
 
 > 📦 94.0 kB Used in GitHub's Storage 
  > 
-> 🏆 143 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 49 Public Repositories 
@@ -164,6 +162,6 @@ Less                     1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/lovelyJason/lovelyJason/main/assets/bar_graph.png)
 
 
- Last Updated on 14/07/2024 12:53:56 UTC
+ Last Updated on 15/07/2024 01:26:09 UTC
 <!--END_SECTION:waka-->
 
