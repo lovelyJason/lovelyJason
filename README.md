@@ -62,7 +62,7 @@
   <img src="https://img.shields.io/badge/-sublime-c9c9c9?logo=sublimetext&logoColor=fd9601" />
   <img src="https://img.shields.io/badge/-webstorm-05c2d7?style=flat-square&logo=webstorm" />
   <img src="https://img.shields.io/badge/goland-black?style=flat-square&logo=goland" />
-  <img src="https://img.shields.io/badge/android%20studio-fff?style=flat-square&logo=androidstudio" />
+  <img src="https://img.shields.io/badge/-android%20studio-fff?logo=androidstudio&logoColor=4285f4" />
  
 </span>
 
