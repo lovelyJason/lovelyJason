@@ -8,7 +8,7 @@
 
 - <img src="http://cdn.qdovo.com/jasonhuang.png" width="20" alt="我的头像"> 从业5年的web前端开发工程师，也懂点别的技术
 - 🐱 对web前后端开发感兴趣，对跨端技术感兴趣
-- 😂 Vue2, Vue3, React Class版本， React Hooks版本全开发过
+- 😂 Vue2, Vue3, React Class版本， React Hooks版本，Next.js, Nuxt,Nest.js全开发过。精通面向对象，面向接口，面向切片，函数式编程
 - 🥳 鄙人本仓库中的项目技术栈大概涉及到 `vue2`，`vue3`，`typescript`， `react`，`uniapp小程序`，`公众号H5`，`vscode扩展源码`，`chrome插件源码`，`nodejs原生`，`express`，`nestjs`，`python web程序`，`hexo`，`ejs服务器端渲染的web应用`，`nuxt的ssr渲染应用`，`基于gridsome+graphQL的vue的静态站点生成器`，`nodejs的命令行程序`，`react native跨端应用`，`flutter`, `nodegui`，`electron桌面程序`，`puppeteer的爬虫应用`（就目前来说）
 - 🍊 欢迎来交流任何和代码有关或无关的话题
 
