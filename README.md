@@ -69,6 +69,7 @@
 ### 开源项目
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=lovelyJason&repo=hexo-volantis-snippets)](https://github.com/lovelyJason/hexo-volantis-snippets)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=lovelyJason&repo=gmgo-admin)](https://github.com/lovelyJason/gmgo-admin)
 <br><br>
 
 ### Github 活跃度
