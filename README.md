@@ -85,7 +85,7 @@
 ### 我今天的工作记录
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-612%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-614%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue)
 
@@ -94,6 +94,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 107.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 186 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -166,6 +168,6 @@ C++                      2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/lovelyJason/lovelyJason/main/assets/bar_graph.png)
 
 
- Last Updated on 21/11/2024 01:46:42 UTC
+ Last Updated on 21/11/2024 13:00:57 UTC
 <!--END_SECTION:waka-->
 
